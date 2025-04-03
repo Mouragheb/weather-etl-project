@@ -8,3 +8,5 @@ __pycache__/
 
 # Data files
 weather_data.csv
+
+.env

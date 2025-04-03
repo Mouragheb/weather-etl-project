@@ -1,3 +1,12 @@
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
+API_KEY = os.getenv("API_KEY")
+DB_NAME = os.getenv("DB_NAME")
+USER = os.getenv("DB_USER")
+
 import requests
 import psycopg2
 from datetime import datetime

@@ -45,3 +45,25 @@ weather-etl-project/
 [GitHub](https://github.com/Mouragheb)  
 [LinkedIn](https://www.linkedin.com/in/moustafa-ragheb-7b474aa6)  
 [Portfolio Website](https://www.moustafaragheb.com)
+
+## Project Screenshots
+
+### ETL Script Running
+![ETL Running](screenshots/etl_success.png)
+
+### Weather Query Output
+![Query Output](screenshots/query_output.png)
+
+### CSV Export
+![CSV Export](screenshots/csv_export_1.png)
+![CSV Export](screenshots/csv_export_2.png)
+
+## What I Learned
+
+- How to structure and build a real-world ETL pipeline using Python
+- How to connect to external APIs and handle real-time data
+- How to store, query, and analyze data using PostgreSQL
+- How to export structured data to CSV for external use
+- How to automate daily data jobs using Python scheduling tools
+- How to manage sensitive credentials securely with `.env` files
+- How to organize and present a technical project professionally on GitHub
